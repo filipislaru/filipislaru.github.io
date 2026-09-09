@@ -1,0 +1,9 @@
+scss
+---
+---
+
+@import "{{ site.theme }}";
+
+body, p, li, td {
+  color: #222;
+}
