@@ -1,8 +1,8 @@
-# Filip Cristian Pislaru
+# Filip Pislaru
 
 MSc Economics, London School of Economics and Political Science
 
-I work on labour and development economics, with a focus on migration
+I am passionate about research on labour and development economics, with previous work on migration
 and regional labour markets in Europe. Previously a research assistant
 at Bocconi University and a research intern at the National Bank of
 Romania.
