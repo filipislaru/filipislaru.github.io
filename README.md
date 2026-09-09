@@ -1,4 +1,16 @@
-My name is Filip Pislaru, and I am currently an MSc student in Economics at the LSE. This is a simple website where you can find my CV. 
-My research interests lie at the intersection of development and labor economics, and I am interested in how sustainable growth can be achieved. 
+# Filip Cristian Pislaru
 
-[Download my CV (PDF)](/CV.pdf)
+MSc Economics, London School of Economics and Political Science
+
+I work on labour and development economics, with a focus on migration
+and regional labour markets in Europe. Previously a research assistant
+at Bocconi University and a research intern at the National Bank of
+Romania.
+
+## CV
+
+[Download my CV (PDF)](CV.pdf)
+
+## Contact
+
+[filip.cristian.pislaru@gmail.com](mailto:filip.cristian.pislaru@gmail.com)
